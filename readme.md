@@ -16,9 +16,9 @@ npm start
 
 Program akan berjalan, dan menunjukkan profil diri saya.
 
-Oleh : 
-Hisam Widi Prayoga
-05111740000026
+Oleh : <br>
+Hisam Widi Prayoga <br>
+05111740000026 <br>
 
 Sumber :
 https://youtu.be/RL305ldfzm8
